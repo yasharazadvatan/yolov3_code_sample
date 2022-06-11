@@ -129,4 +129,3 @@ dmypy.json
 .pyre/
 
 /YOLOV3/yolov3-spp.weights
-/images
